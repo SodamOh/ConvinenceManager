@@ -32,7 +32,8 @@
   - mySQL
 
 [ERD]
-![image](https://github.com/user-attachments/assets/0021011a-8eed-437a-af29-5c221cfea019)
+![image](https://github.com/user-attachments/assets/4de01a04-446d-4b81-82a9-e6bcf1ae387a)
+
 
 
 [향후 계획]
