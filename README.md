@@ -32,7 +32,8 @@
   - mySQL
 
 [ERD]
-![image](https://github.com/user-attachments/assets/c4cf4ffb-3e89-490c-946e-479192350910)
+![image](https://github.com/user-attachments/assets/0021011a-8eed-437a-af29-5c221cfea019)
+
 
 [향후 계획]
   - 정산 관리 시스템 추가
